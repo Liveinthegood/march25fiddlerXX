@@ -1,0 +1,754 @@
+
+  /* Mobile commands below */
+
+
+
+  .bodytextDesk{
+  
+    display: none;
+  
+  }
+  
+    .HeaderDesk {
+  
+    display: none;
+  
+  }
+
+
+  .heroHeaderMobile {
+
+    color: red;
+    font-size: 100px;
+    margin-top: 50px;
+
+    margin-bottom: 60px;
+
+  }
+  
+.herotextMobile {
+
+  font-size: 55px;
+}
+
+.main2 {
+
+padding-left: 40px;
+padding-right: 40px;
+
+
+}
+
+
+.MainHeaderIndex {
+
+font-family: Arial, Helvetica, sans-serif;
+padding-left: 40px;
+padding-right: 40px;  }
+
+
+
+
+
+.allabord {
+
+  padding-top: 25px;
+  margin-left: 25px;
+  margin-right: 25px;
+  font-size: 105px;
+  line-height: 110px;
+  color: yellow;
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+
+#testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color:black;
+  color: white;
+  
+  }
+
+  .proW {
+
+    color: white;
+  }
+
+
+
+  .img-banner {
+
+  
+
+    width: 100%;
+    padding-bottom: 30px;
+    margin: 0 auto;
+  
+  }
+  
+  .img-bannerM {
+  
+    display: none;
+  }
+  
+  
+
+  .billysilly2{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:100%;
+    width:100%;
+  
+  
+  }
+
+  .tzeitelmotelPictureTop{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:100%;
+    width:100%;
+  
+  
+  }
+
+  
+  .bodytext{
+  
+    font-size: 64px;
+    line-height: 84px;
+  
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+
+
+
+  
+  
+  /* black box on bottom of index page only */
+  
+  
+  #allAbord_block2{
+  
+    background-color: red;
+  }
+
+  #allAbord_block{
+  
+    background-color: red;
+  }
+
+  .TzeitelMotelPic{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:80%;
+    width:80%;
+  
+  
+  }
+  
+
+  
+  #features {
+    padding: 5% 4%;
+    position: relative;
+    
+    }
+  
+  
+  /* Navigation Bar */
+  
+  .btn2 {
+     background: #F63D3D;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 10px;
+     line-height: 10px;
+     color: yellow;
+     font-family:Arial, Helvetica, sans-serif;
+     width: 249px;
+     font-size: 60px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+     margin-top: 50px;
+  
+  }
+
+  .btn2:hover {
+
+    color: white;
+  }
+  
+  
+  .fiddlerBlock {
+
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+    display: block;
+  
+
+
+
+  }
+  
+  #testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+  
+  }
+  
+  .testimonial-text{
+  
+  font-family: "Ubuntu";
+  color: tan;
+  text-align: center;
+  font-size: 45px ;
+  
+  
+  }
+  
+  
+
+  .pro {
+
+    color: red;
+  }
+  
+  
+  
+  /* my resume journey awaits */
+  
+  
+  .MainMessage {
+  
+    padding-top: 25px;
+    padding-bottom: 65px;
+
+    margin-left: 35px;
+    margin-right: 35px;
+    font-size: 70px;
+    line-height: 80px;
+    color: yellow;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+  
+  }
+  
+  .MainMessageSub {
+  
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+    line-height: 110px;
+
+    margin-left: 25px;
+    margin-right: 25px;
+
+  
+  }
+  
+  
+  
+  
+  .btn3 {
+     background: #F63D3D;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 15px;
+     line-height: 10px;
+     color: yellow;
+     font-family:Arial, Helvetica, sans-serif;
+     width: 75%;
+     font-size: 66px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+  
+  }
+  
+
+
+  
+  
+  /* Footer Section */
+  
+  .footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:yellow;
+    background-color: black;
+    
+    }
+  
+    hr {
+  
+      border: solid red 6px;
+      border-bottom: none;
+      width: 74%;
+      margin: 100px auto;
+    
+    }
+
+    .shopNsavePic {
+      padding-top: 60px;
+      padding-bottom: 60px;
+      height: 90%;
+      width: 90%;
+      position:static;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    
+      margin-left: auto;
+      margin-right: auto;
+    
+    
+      display: block;
+    
+    }
+
+
+    .yellowTitleBar {
+
+      background-color: yellow;
+      text-align: center;
+      font-size: 45px;
+      color: red;
+
+      padding-top: 45px;
+      padding-bottom: 85px;
+
+      padding-left: 35px;
+      padding-right: 35px;
+
+      font-family:Arial, Helvetica, sans-serif;
+    }
+
+
+
+  
+  
+@media screen and (min-width:1000px) {
+
+  .TzeitelMotelPic{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:80%;
+    width:80%;
+  
+  
+  }
+
+  .tzeitelmotelPictureTop{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:50%;
+    width:50%;
+  
+  
+  }
+
+  .bodytextDesk{
+  
+    font-size: 44px;
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .bodytextDesk{
+  
+    font-size: 44px;
+    padding-left: 65px;
+    padding-right: 65px;
+  }
+
+  .herobackground {
+  
+    background-color: #074f57;
+  
+    background-image: url(../images/mtn2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+  
+    color: white;
+    padding-top: 200px;
+    padding-bottom: 200px;
+  
+  
+  
+  }
+
+
+  .heroHeaderMobile {
+
+    color: yellow;
+    font-size: 100px;
+    margin-top: 50px;
+
+    -webkit-text-stroke: 3px red;
+
+
+  }
+
+
+
+    .yellowTitleBar {
+
+      background-color: yellow;
+      text-align: center;
+      font-size: 45px;
+      color: red;
+
+      padding-top: 45px;
+      padding-bottom: 85px;
+
+      padding-left: 35px;
+      padding-right: 35px;
+
+      font-family:Arial, Helvetica, sans-serif;
+
+    }
+  
+    .shadowBilly{
+  
+      display: block;
+      padding-top: 75px;
+      padding-bottom: 75px;
+      height:50%;
+      width:50%;
+      float: left;
+      margin-top: 50px;
+    
+    }
+
+
+    .pro {
+
+      color: red;
+    }
+
+
+    .bodytext{
+  
+      font-size: 28px;
+      line-height: 38px;
+      padding-left: 65px;
+      padding-right: 65px;
+      color: black;
+      font-family: Arial, Helvetica, sans-serif;
+    }
+  
+
+    .HiItsBillyLogo {
+
+      padding-top: 30px;
+      padding-bottom: 130px;
+      height: 100%;
+      width: 100%;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    
+      margin-left: auto;
+      margin-right: auto;
+
+      display: block;
+    
+    
+
+  
+    }
+
+
+      .bodytextTEST{
+  
+        font-size: 24px;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    
+        background-color: aqua;
+        color: black;
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: left;
+      }
+
+      .bodytextYELLOW{
+  
+        font-size: 24px;
+        padding-left: 65px;
+        padding-right: 65px;
+        padding-top: 65px;
+        padding-bottom: 65px;
+    
+        background-color: darkblue;
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+
+      }
+
+
+      .allabord {
+
+        padding-top: 25px;
+        margin-left: 25px;
+        margin-right: 25px;
+        font-size: 105px;
+        line-height: 110px;
+        color: yellow;
+        font-family:Arial, Helvetica, sans-serif;
+      
+      }
+
+      #testimonials {
+        text-align: center;
+        padding-bottom: 20px;
+        background-color:black;
+        color: white;
+        
+        }
+
+        .proW {
+
+          color: white;
+        }
+
+
+        .TCcereal {
+          height: 50%;
+          width: 50%;
+          position:static;
+          background-repeat: no-repeat;
+          background-size: 100%;
+          float: left;
+          padding-left: 30px;
+
+        }
+
+        aside {
+
+          width: 50%;
+          float: left;
+          padding:10px;
+          background-color: yellow;
+      
+          padding-left: 45px;
+          padding-top: 45px;
+          padding-bottom: 45px;
+          padding-right: 45px;
+          }
+      
+      article {
+      
+          width: 50%;
+          float: left;
+          padding:10px;
+      
+          padding-left: 45px;
+          padding-top: 45px;
+          padding-bottom: 45px;
+          padding-right: 45px;
+          
+      
+          
+      }
+
+
+      .main2 {
+
+        padding-left: 40px;
+        padding-right: 40px;
+
+
+      }
+      
+    
+  .MainHeaderIndex {
+
+    font-family: Arial, Helvetica, sans-serif;
+    padding-left: 40px;
+    padding-right: 40px;  }
+    
+
+    .HiItsBillyLogo {
+
+      padding-top: 30px;
+      padding-bottom: 130px;
+      padding-left: 45px;
+      padding-right: 45px;
+      height: 100%;
+      width: 100%;
+      position:static;
+      background-repeat: no-repeat;
+      background-size: 100%;
+    
+      margin-left: auto;
+      margin-right: auto;
+    
+    
+      display: block;
+
+  
+    }
+
+
+    .pro {
+
+      color: red;
+    }
+
+  
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
